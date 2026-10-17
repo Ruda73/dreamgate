@@ -1,0 +1,16 @@
+README.md
+pyproject.toml
+dreamgate/__init__.py
+dreamgate/config.py
+dreamgate/core.py
+dreamgate/gate.py
+dreamgate/stream.py
+dreamgate.egg-info/PKG-INFO
+dreamgate.egg-info/SOURCES.txt
+dreamgate.egg-info/dependency_links.txt
+dreamgate.egg-info/requires.txt
+dreamgate.egg-info/top_level.txt
+tests/test_config.py
+tests/test_core.py
+tests/test_gate.py
+tests/test_stream.py
